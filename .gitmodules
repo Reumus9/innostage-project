@@ -1,0 +1,3 @@
+[submodule "soar-lab/Shuffle"]
+	path = soar-lab/Shuffle
+	url = https://github.com/frikky/Shuffle.git
